@@ -1,0 +1,11 @@
+# LaTeX output
+*.aux
+*.toc
+*.gz
+*.log
+*.pdf
+*.out
+
+# MacOSX trash
+.DS_Store
+
